@@ -1,0 +1,29 @@
+title: Nicolette Leilani Hernández Mercado
+logo: /assets/img/me.jpg
+email: nicol_leilani@hotmail.com
+description: Biomedical Engineer (BME)
+show_downloads: true
+google_analytics: G-ZLK2GHB055
+color-scheme: light
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+# You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
+sidebar:
+  - name: 🇲🇽 México, Jalisco, Guadalajara
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/Superkunair
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+    link: https://www.linkedin.com/in/nicolette-leilani-hern%C3%A1ndez-mercado-8007b413a/
+  - name: "+52 3314676321"
+    icon: <i class="fa fa-phone"></i>
+
+# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
+# When running locally, we run into the following error —
+# GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+# adding this avoids it
+github: [metadata]
