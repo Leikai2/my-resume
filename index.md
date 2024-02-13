@@ -10,6 +10,7 @@ Biomedical engineer with 3+ years of experience in CRM and project creations, wi
 - Account Management for clients bankruptcy
 - Support for Wisconsin users that need to follow up their Filling for bankruptcy process
 - Customer support services
+- Creation and Inspection of invoices through **Invoiced**
 
 
 ### Integration Developer TEOPM Services Inc. Utah (Contract)  October 13th, 2020 - September 27, 2023
@@ -47,6 +48,10 @@ Biomedical engineer with 3+ years of experience in CRM and project creations, wi
   - Microsoft SQL
   - HTML5, JS, CSS3
   - Arduino, C
+  - Clio
+  - Hubspot
+  - Invoiced
+  - Dropbox
 
 ## Education:
 #### Bachelor in Biomedical Engineering, Universidad del valle de México, Guadalajara (August 2014 — August 2018)
